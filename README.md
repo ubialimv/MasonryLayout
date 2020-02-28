@@ -1,2 +1,0 @@
-# MasonryLayout
-Created with CodeSandbox
